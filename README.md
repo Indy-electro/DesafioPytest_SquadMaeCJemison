@@ -24,3 +24,5 @@
 ### Yohanna Oliveira Cavalcanti
 
 ## Resolução_dos_desafios_propostos:
+
+### Nos dividimos por tópicos, para que todas pudessem contribuir, desde a criação do repositório, entre a resolução dos exercícios e até a entrega do link pelo formulário. 
