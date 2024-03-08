@@ -1,4 +1,4 @@
-# Repositório dos Exercícios de Python da Squad Mae C. Jemison do Bootcamp Back-end Python e Django
+# Repositório dos Exercícios de Pytest da Squad Mae C. Jemison do Bootcamp Back-end Python e Django
 
 ## SQUAD SQUAD MAE C. JEMISON, composta por 10 participantes:
 
