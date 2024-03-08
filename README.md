@@ -13,7 +13,7 @@
 
 ### Manuele Maurício Lamenha
 
-### Millena Figueredo
+### Millena Figueredo || [MildePaula](https://github.com/MildePaula)
 
 ### Quesia De Araújo Santos || [quesia-araujo](https://github.com/quesia-araujo)
 
