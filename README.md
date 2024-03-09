@@ -17,7 +17,7 @@
 
 ### Quesia De Araújo Santos || [quesia-araujo](https://github.com/quesia-araujo)
 
-### Siomara Mota
+### Siomara Mota || [siomara777] (https://github.com/siomara777)
 
 ### Tamar Bender
 
