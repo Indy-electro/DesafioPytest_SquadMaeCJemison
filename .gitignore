@@ -9,7 +9,6 @@ env/
 *.out
 build/
 .idea/
-.vscode/
 *.egg-info/
 *.egg
 dist/
