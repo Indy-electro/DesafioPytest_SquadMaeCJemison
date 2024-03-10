@@ -36,8 +36,13 @@ Nos organizamos através de conversas no Discord, com sugestões de resoluções
 gerenciar branchs e aceitar pr (ou adicionar membros como contribuidoras)
 
 _Repositório criado:_
-
 https://github.com/Indy-electro/DesafioPytest_SquadMaeCJemison
+
+2 - Editar _readme.md_
+conforme orientações de entrega
+
+3 - Exercício unittest
+criação pode ser em grupo, mas uma pessoa responsável
 
 2 - Editar _readme.md_
 conforme orientações de entrega
