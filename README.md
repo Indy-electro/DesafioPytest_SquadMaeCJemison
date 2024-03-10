@@ -44,6 +44,12 @@ conforme orientações de entrega
 3 - Exercício unittest
 criação pode ser em grupo, mas uma pessoa responsável
 
+2 - Editar _readme.md_
+conforme orientações de entrega
+
+3 - Exercício unittest
+criação pode ser em grupo, mas uma pessoa responsável
+
 4 - Exercício pytest
 criação pode ser em grupo, mas uma pessoa responsável
 
