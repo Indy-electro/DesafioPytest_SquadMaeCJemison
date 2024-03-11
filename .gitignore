@@ -13,7 +13,5 @@ build/
 *.egg
 dist/
 tests/
-test_*.py
-*_test.py
 .coverage
 test_results/
